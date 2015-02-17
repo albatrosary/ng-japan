@@ -1,0 +1,1 @@
+"use strict";angular.module("ngJapan",["ngAnimate","ngAria","ngMaterial"]),angular.module("ngJapan").controller("AppCtrl",["$scope",function(a){a.awesomeThings=["HTML5 Boilerplate","AngularJS","Karma"]}]);
